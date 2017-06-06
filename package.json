@@ -1,0 +1,20 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Generator of flashcards",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://apimentil.github.io/Week-11-Cloze-Constructor/"
+  },
+  "author": "Aaron Pimentil",
+  "license": "UTA",
+  },
+  "homepage": "https://github.com/apimentil/Week-11-Cloze-Constructor/blob/master/README.md",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
